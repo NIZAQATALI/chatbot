@@ -30,7 +30,7 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/your-username/hotel-chatbot.git
+git clone https://github.com/NIZAQATALI/chatbot.git
 
 Install dependencies:
 
